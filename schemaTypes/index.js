@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import Footer from "./Footer"
+export const schemaTypes = [Footer]
