@@ -1,4 +1,4 @@
-import banner from './banner';
+import banner from './Banner';
 
 export const schemaTypes = [
   // other schemas...
