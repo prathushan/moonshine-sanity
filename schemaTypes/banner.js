@@ -1,4 +1,5 @@
 // schemas/banner.js
+
 export default {
     name: 'banner',
     title: 'Banner',
@@ -26,16 +27,9 @@ export default {
       },
       {
         name: 'rating',
-        title: 'Rating (Stars)',
+        title: 'Rating',
         type: 'number',
-        description: 'Enter a number between 0 and 5',
-        validation: Rule => Rule.min(0).max(5),
-      },
-      {
-        name: 'ratingText',
-        title: 'Rating Text',
-        type: 'string',
-        description: 'E.g. "5.0 Shopify Rating"',
+        validation: Rule => Rule.min(0).max(5)
       },
       {
         name: 'images',
@@ -43,8 +37,8 @@ export default {
         type: 'array',
         of: [{ type: 'image' }],
         options: {
-          layout: 'grid',
-        },
+          layout: 'grid'
+        }
       }
     ]
   };
