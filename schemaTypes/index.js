@@ -13,6 +13,6 @@ import Services from "./Services"
 import Footer from "./Footer"
 import aboutusBanner from './aboutusBanner';
 import aboutusSection1 from './aboutusSection1';
+import aboutusSection2 from './aboutusSection2';
 
-export const schemaTypes = [Header, Page,ImageCards, OddEven,banner,Ourbrands,Footer,blog,Testimonial,Contact,ContactDetails,Services,aboutusBanner,aboutusSection1];
-
+export const schemaTypes = [Header, Page,ImageCards, OddEven,banner,Ourbrands,Footer,blog,Testimonial,Contact,ContactDetails,Services,aboutusBanner,aboutusSection1,aboutusSection2];
