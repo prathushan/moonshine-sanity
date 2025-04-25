@@ -11,7 +11,9 @@ import Contact from "./Contact"
 import ContactDetails from "./Contact-details"
 import Services from "./Services"
 import Footer from "./Footer"
+import Newsletter from './Newsletter';
+import NewsletterStatic from './NewsletterStatic';
 
 
-export const schemaTypes = [Header, Page,ImageCards, OddEven,banner,Ourbrands,Footer,blog,Testimonial,Contact,ContactDetails,Services];
+export const schemaTypes = [Header, Page,ImageCards, OddEven,banner,Ourbrands,Footer,blog,Testimonial,Contact,ContactDetails,Services,Newsletter,NewsletterStatic];
 
