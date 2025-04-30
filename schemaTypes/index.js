@@ -1,4 +1,3 @@
-
 import Header from './Header';
 import Page from './page';
 import ImageCards from './ImageCards';
