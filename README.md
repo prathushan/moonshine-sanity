@@ -1,6 +1,6 @@
 # Moonshine – Sanity Backend (CMS)
 
-This repository contains the **Sanity.io backend** for **Moonshine**, a platform that helps Shopify stores drive customer engagement with personalized postcard campaigns. The Sanity CMS handles content management for postcards, customer profiles, campaign tracking, and analytics, providing dynamic content to the frontend.
+This repository contains the **Sanity.io backend** for **Moonshine**, a platform that helps Shopify stores drive customer engagement with personalized campaigns. The Sanity CMS handles content management for postcards, customer profiles, campaign tracking, and analytics, providing dynamic content to the frontend.
 
 ## 🏡 About Moonshine
 
