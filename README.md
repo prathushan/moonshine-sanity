@@ -4,7 +4,7 @@ This repository contains the **Sanity.io backend** for **Moonshine**, a platform
 
 ## 🏡 About Moonshine
 
-Moonshine redefines text marketing by enabling Shopify store owners to send personalized, ROI-focused postcards to customers. With Moonshine, you can automate and track campaigns, while also providing a personal touch with handwritten cards.
+Moonshine redefines text marketing by enabling Shopify store owners to send personalized, ROI-focused to customers. With Moonshine, you can automate and track campaigns, while also providing a personal touch with handwritten cards.
 
 ## 🧰 Tech Stack
 
